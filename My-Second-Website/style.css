@@ -105,3 +105,11 @@ button{
     background-size: cover;
     margin-top: 40px;
 }
+.today{
+    color: white;
+}
+.todayp{
+    text-align: center;
+    color: white;
+}
+
