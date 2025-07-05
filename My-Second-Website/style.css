@@ -29,6 +29,7 @@ h2{
     padding-top: 50px;
     padding-bottom: 10px;
     font-size: 40px;
+    color: hsl(0, 0%, 0%, 0.623);
 }
 .nur{
     text-align: center;
@@ -96,6 +97,7 @@ h2{
     font-size: 16px;
     cursor: pointer;
     margin-top: 15px;
+    font-weight: bold;
 }
 .middlepic{
     height: 650px;
@@ -153,6 +155,7 @@ h2{
     font-size: 16px;
     cursor: pointer;
     margin-top: 20px;
+    font-weight: bold;
 }
 .button03{
     background-color: hsl(0, 0%, 61%);
@@ -166,5 +169,27 @@ h2{
     cursor: pointer;
     margin-left: 20px;
     margin-top: 20px;
+    font-weight: bold;
+}
+.ourmenu{
+    margin-bottom: 50px;
+}
+.menuh{
+    font-size: 20px;
+    color: hsl(0, 0%, 0%, 0.623);
+}
+.menu{
+    font-size: 17px;
+    color: hsl(0, 0%, 0%, 0.432);
+}
+.mainmenu{
+    margin-left: 100px;
+    display: flex;
+}
+.menumargin{
+    margin-top: 30px;
+}
+.mainmenu02{
+    margin-left: 100px;
 }
 
